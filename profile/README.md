@@ -12,16 +12,15 @@
 # 슈퍼앱 금융 챗봇 서비스 **WIBEE**
 
 ### : 그룹 데이터를 활용한 MSA 기반 슈퍼앱 서비스 및 클라우드 인프라 구축
+![image](https://github.com/user-attachments/assets/f073251d-1cd8-433d-92fa-9ee86b3b9ee1)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/c9e88b9c-2452-4030-95e6-6ebdac69e45b/image.png)
 
 # 🚀 MyProject
 
-https://img.shields.io/badge/build-passing-brightgreen
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
-https://img.shields.io/badge/license-MIT-blue
-
-https://img.shields.io/badge/version-1.0.0-blue
 
 ## ✨ 프로젝트 소개
 
@@ -44,9 +43,11 @@ WIBEE는 **금융 챗봇 서비스**로, 사용자 정보를 기반으로 금융
 
 ## 🎉 데모
 
-https://www.canva.com/design/DAGYYBaSbvQ/Q4gWiB3F5C1VQBKRVzZYsA/view?utm_content=DAGYYBaSbvQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+[최종 보고서 바로가기](https://www.canva.com/design/DAGYYBaSbvQ/Q4gWiB3F5C1VQBKRVzZYsA/view?utm_content=DAGYYBaSbvQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/ed8dcb3f-a719-4de2-a6bb-df37bfd3b28a/image.png)
+https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
+
+
 
 ---
 

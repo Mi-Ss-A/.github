@@ -29,6 +29,7 @@ WIBEE는 **금융 챗봇 서비스**로, 사용자 정보를 기반으로 금융
 ### 주요기능
 
 <aside>
+
 💡 **지능형 챗봇**: AI 기반의 챗봇이 실시간으로 금융 질문에 응답하고, 다양한 금융 상품에 대한 정보를 제공합니다. 사용자 맞춤형 답변으로 금융 이해도를 높이고, 필요한 정보를 신속하게 제공합니다.
 
 **맞춤형 추천**: 사용자 행동과 선호도를 분석하여, 개인에 최적화된 금융 상품을 추천합니다. 이를 통해 사용자는 자신에게 가장 적합한 투자 및 대출 상품을 쉽게 찾을 수 있습니다.
@@ -101,42 +102,50 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" width="40px" /> **Java (17)**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png" width="40px" /> **JS**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" width="40px" /> **Python**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568959202/noticon/bmsd6jrloxrq4zsmsbnp.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568959202/noticon/bmsd6jrloxrq4zsmsbnp.png" width="40px" /> **Shell**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008187/noticon/m4oad4rbf65fjszx0did.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008187/noticon/m4oad4rbf65fjszx0did.png" width="40px" /> **SpringBoot (3.3.5)**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1623067614/noticon/adl8cg4266exejnzha95.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1623067614/noticon/adl8cg4266exejnzha95.png" width="40px" /> **Flask**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1662808717/noticon/eyjphpljxltwu5jgna2d.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1662808717/noticon/eyjphpljxltwu5jgna2d.png" width="40px" /> **SpringCloud**
 
 </aside>
 
 <aside>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" width="40px" /> React
+    
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" width="40px" /> **React**
 
 </aside>
 
@@ -145,11 +154,13 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778391/noticon/l0uiouhpeiq31huqu7ft.jpg" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778391/noticon/l0uiouhpeiq31huqu7ft.jpg" width="40px" /> **Jenkins**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616661231/noticon/vqrqju7rv3iyhswycbf1.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616661231/noticon/vqrqju7rv3iyhswycbf1.png" width="40px" /> **ArgoCD**
 
 </aside>
@@ -159,27 +170,32 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/kos1xkevxtr81zgwvyoe.svg" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914173/noticon/kos1xkevxtr81zgwvyoe.svg" width="40px" /> **EC2**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567064876/noticon/sb5llmvfubuceldbkmx8.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567064876/noticon/sb5llmvfubuceldbkmx8.png" width="40px" /> **S3**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1639910458/noticon/v4qpmkfpuxn9wicdbgsv.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1639910458/noticon/v4qpmkfpuxn9wicdbgsv.png" width="40px" /> **CLI**
 
 </aside>
 
 <aside>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" width="40px" /> Site to Site VPN
+    
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" width="40px" /> **Site to Site VPN**
 
 </aside>
 
 <aside>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" width="40px" /> AWS ACM
+    
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1704934702/noticon/mqcjbxqbmvhawhlyagiu.png" width="40px" /> **AWS ACM**
 
 </aside>
 
@@ -190,51 +206,61 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683828904/noticon/lzhn8eoyw0cjlkin0mua.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683828904/noticon/lzhn8eoyw0cjlkin0mua.png" width="40px" /> **k8s - 1.28**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913255/noticon/xbroxmdmksvebf3v6v8v.gif" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913255/noticon/xbroxmdmksvebf3v6v8v.gif" width="40px" /> **Docker**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566798146/noticon/lku5cppzh8r7awwsmmko.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566798146/noticon/lku5cppzh8r7awwsmmko.png" width="40px" /> **Nginx 1.11.3**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1594969872/noticon/h5f5dlugmnwgbt3dvrzx.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1594969872/noticon/h5f5dlugmnwgbt3dvrzx.png" width="40px" /> **Terraform**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1667528160/noticon/jkteb0zahggo46okznlh.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1667528160/noticon/jkteb0zahggo46okznlh.png" width="40px" />  **Istio 1.24.0**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616661279/noticon/aw5na8k2acxybsshcatp.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616661279/noticon/aw5na8k2acxybsshcatp.png" width="40px" />  **Helm 3.16.3**
 
 </aside>
 
 <aside>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1700372862/noticon/vduy3ursbmycsrgvd3c4.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1700372862/noticon/vduy3ursbmycsrgvd3c4.png" width="40px" />  Zookeeper
+    
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1700372862/noticon/vduy3ursbmycsrgvd3c4.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1700372862/noticon/vduy3ursbmycsrgvd3c4.png" width="40px" />  **Zookeeper**
 
 </aside>
 
 <aside>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1599014155/noticon/c5cyndudltka3mddobj5.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1599014155/noticon/c5cyndudltka3mddobj5.png" width="40px" />  Kafka 3.9
+    
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1599014155/noticon/c5cyndudltka3mddobj5.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1599014155/noticon/c5cyndudltka3mddobj5.png" width="40px" />  **Kafka 3.9**
 
 </aside>
 
 <aside>
+    
 <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e2edd370-582f-4c2e-879f-2589b39c292c/11111.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e2edd370-582f-4c2e-879f-2589b39c292c/11111.png" width="40px" />  **StrongSwan 5.9.5**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629971675/noticon/l2d210hcs4hpeme3gob7.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629971675/noticon/l2d210hcs4hpeme3gob7.png" width="40px" />  **Ansible 2.10.8**
 
 </aside>
@@ -244,22 +270,26 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1571879098/noticon/n94bmga5jrpl8kscivbj.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1571879098/noticon/n94bmga5jrpl8kscivbj.png" width="40px" /> **Oracle-xe-11g**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913379/noticon/uiite75rxvkvcki3mr4u.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913379/noticon/uiite75rxvkvcki3mr4u.png" width="40px" /> **PostgreSQL**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913679/noticon/xlnsjihvjxllech0hawu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913679/noticon/xlnsjihvjxllech0hawu.png" width="40px" /> **Redis 
 7.2.6-alpine**
 
 </aside>
 
 <aside>
+    
 <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/a112a6d2-640b-4d6e-97a0-f8f3e1fed02d/chroma.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/a112a6d2-640b-4d6e-97a0-f8f3e1fed02d/chroma.png" width="40px" /> **벡터 DB (ES)**
 
 </aside>
@@ -269,26 +299,31 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972087/noticon/uhlx0ddln1ygz7kxhkjw.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972087/noticon/uhlx0ddln1ygz7kxhkjw.png" width="40px" /> **Prometheus 2.55.0**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616658979/noticon/lcugxam6owivokgw1psc.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1616658979/noticon/lcugxam6owivokgw1psc.png" width="40px" /> **Grafana 11.3.0**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914242/noticon/pqfq8nbtltjvxgh5lik3.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914242/noticon/pqfq8nbtltjvxgh5lik3.png" width="40px" /> **Elasticsearch 8.5.1**
 
 </aside>
 
 <aside>
+    
 <img src="https://coralogix.com/wp-content/uploads/2020/04/fluentd-guide.png" alt="https://coralogix.com/wp-content/uploads/2020/04/fluentd-guide.png" width="40px" /> **fluentd 1.17.1**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581749887/noticon/q7kub7xnmcefvs9toxsf.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581749887/noticon/q7kub7xnmcefvs9toxsf.png" width="40px" /> **kibana 8.5.1**
 
 </aside>
@@ -300,27 +335,32 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913651/noticon/rj9nd1qsykajfusei65f.jpg" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913651/noticon/rj9nd1qsykajfusei65f.jpg" width="40px" /> **Slack**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972215/noticon/vgvbhxae6jrvqpcnu0vb.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972215/noticon/vgvbhxae6jrvqpcnu0vb.png" width="40px" /> **GitHub**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" width="40px" /> **Notion**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1681787748/noticon/gnmvks5kewb4rorwqj3k.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1681787748/noticon/gnmvks5kewb4rorwqj3k.png" width="40px" /> **Draw.io**
 
 </aside>
 
 <aside>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1608448196/noticon/a0fgk99dgqtyrwwmqsbt.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1608448196/noticon/a0fgk99dgqtyrwwmqsbt.png" width="40px" /> Figma
+    
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1608448196/noticon/a0fgk99dgqtyrwwmqsbt.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1608448196/noticon/a0fgk99dgqtyrwwmqsbt.png" width="40px" /> **Figma**
 
 </aside>
 
@@ -329,16 +369,19 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" /> **MSA**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1613068261/noticon/xl3lhld6ndk1qv0xkyri.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1613068261/noticon/xl3lhld6ndk1qv0xkyri.png" width="40px" /> **에자일**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1574740301/noticon/up950fjgyekwqizq6xa6.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1574740301/noticon/up950fjgyekwqizq6xa6.png" width="40px" /> **TDD**
 
 </aside>
@@ -348,11 +391,13 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 ---
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1672321451/noticon/wg8oczvevrvjtbvkiskk.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1672321451/noticon/wg8oczvevrvjtbvkiskk.png" width="40px" /> **GPT-3.5 Turbo (생성형 AI)**
 
 </aside>
 
 <aside>
+    
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1644773815/noticon/gekdpcp7jzd4cpaln8vi.png" alt="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1644773815/noticon/gekdpcp7jzd4cpaln8vi.png" width="40px" /> **Text-embedding-ada-002 (임베딩 모델)**
 
 </aside>

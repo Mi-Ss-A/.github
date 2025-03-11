@@ -255,7 +255,7 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 
 <aside>
     
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e2edd370-582f-4c2e-879f-2589b39c292c/11111.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e2edd370-582f-4c2e-879f-2589b39c292c/11111.png" width="40px" />  **StrongSwan 5.9.5**
+<img src="https://github.com/user-attachments/assets/e9e01028-7a60-489b-82ca-1efb06bc6fc7" alt="https://github.com/user-attachments/assets/e9e01028-7a60-489b-82ca-1efb06bc6fc7" width="40px" />  **StrongSwan 5.9.5**
 
 </aside>
 
@@ -290,7 +290,7 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 
 <aside>
     
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/a112a6d2-640b-4d6e-97a0-f8f3e1fed02d/chroma.png" alt="https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/a112a6d2-640b-4d6e-97a0-f8f3e1fed02d/chroma.png" width="40px" /> **벡터 DB (ES)**
+<img src="https://github.com/user-attachments/assets/f6341f17-c00c-4cd2-afdb-802385143809" alt="https://github.com/user-attachments/assets/f6341f17-c00c-4cd2-afdb-802385143809" width="40px" /> **벡터 DB (ES)**
 
 </aside>
 

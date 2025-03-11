@@ -87,11 +87,11 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 
 ## 시스템 아키텍쳐
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/afd47962-44f9-4ab2-84a9-4b5fcfd6dc0e/image.png)
+![시스템아키텍쳐](https://github.com/user-attachments/assets/12faa7fd-60ec-46d9-8c2e-b69f095dc0a9)
 
 ## 🗄️ ERD (Entity Relationship Diagram)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/466dfd3b-39ff-451a-b871-20bee8f0fc5d/image.png)
+![ERD](https://github.com/user-attachments/assets/30cef5b6-6676-47a0-8acf-31e0714792ff)
 
 ---
 

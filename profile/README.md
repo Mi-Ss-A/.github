@@ -410,75 +410,75 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 
 ## [기능별 단위테스트](https://docs.google.com/spreadsheets/d/1nHnfCZs95mpzaPF0cUwBbH-YgOEEhwY7gSkYVJyzOFE/edit?gid=234427852#gid=234427852)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/6962729a-b81d-4c1b-bac9-4aa09d03fb9a/image.png)
+![image.png](https://github.com/user-attachments/assets/ac6f7dc8-2e8e-40cf-afc9-d6028d2eb2f2)
 
 ## [시나리오별 통합 테스트](https://docs.google.com/spreadsheets/d/1nHnfCZs95mpzaPF0cUwBbH-YgOEEhwY7gSkYVJyzOFE/edit?gid=249864721#gid=249864721)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/5145fb3f-692c-4ba2-ad37-31b812d91837/image.png)
+![image.png](https://github.com/user-attachments/assets/e9469982-721d-4207-b11d-3ef108559be9)
 
 ## [부하 테스트](https://docs.google.com/spreadsheets/d/1Ic1_rDIg5hC_Zbv9mO-s6raxEDfbPJsn43VFjct6G1Q/edit?gid=0#gid=0)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/39c5aca3-1780-4fc7-81c4-32083cc5a3a7/image.png)
+![image.png](https://github.com/user-attachments/assets/56cb7af7-3184-449c-8d63-369298882555)
 
 ## 산출물
 
 ### 요구사항 정의 산출물
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/99635201-7b28-460e-9b5a-4f90d80177be/image.png)
+![image.png](https://github.com/user-attachments/assets/b78781b9-4bdd-47db-976c-903c8e2e13a3)
 
 ### 비즈니스 프로세스 모델 (BPM)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/9d015011-1d90-4318-b28a-e74948d0e364/image.png)
+![image.png](https://github.com/user-attachments/assets/2b0d4390-46d9-49a3-8fbc-56b10fe6b5da)
 
 ## 화면 구성 및 인터페이스 설계
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e5c40a25-7bae-4ba0-a25b-a1c662641ec4/image.png)
+![image png-1](https://github.com/user-attachments/assets/423adc7a-401c-45f6-a136-c71507b89930)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/810e12ea-8cc6-4563-b155-d7c265c182f3/image.png)
+![image png-2](https://github.com/user-attachments/assets/70472ae3-135f-44b0-a21f-0c207a8cf921)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/a218e376-7bf4-4132-86f9-7b0e9c494166/image.png)
+![image png-3](https://github.com/user-attachments/assets/a6e6136f-c2c9-4d3d-83e8-7189434ecb13)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/400535cb-c1b3-4e24-aa7a-16aa8dd25f65/image.png)
+![image png-4](https://github.com/user-attachments/assets/ac288926-de78-4651-bad1-b69ad316e693)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/cf41aeff-5227-42aa-b64d-03e4cc664c06/image.png)
+![image png-5](https://github.com/user-attachments/assets/04fb775c-ec46-46e1-9f82-f89ee9808c75)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/49ec6309-b610-4573-834a-2854516ba2e2/image.png)
+![image png-6](https://github.com/user-attachments/assets/c0cf04e2-67d6-45d7-92e1-e7bd2c9a3048)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/70bdbeb1-465a-41ce-a8e5-e12594fc3a05/image.png)
+![image png-7](https://github.com/user-attachments/assets/521e65c9-d10f-43e9-bc40-186edac0d0de)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/202e6d4f-d503-4ea8-9999-e8e83ba9c535/image.png)
+![image png-8](https://github.com/user-attachments/assets/581288e2-6143-4a9c-b147-31fc309f501f)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/8edffd47-47a4-4c2b-b927-21a6a82570b6/image.png)
+![image png-9](https://github.com/user-attachments/assets/3d8c9318-a028-427b-9a89-52364ea32be8)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/3bb1c0f9-b805-4783-96f6-678dcbeeb190/image.png)
+![image png-10](https://github.com/user-attachments/assets/12713beb-e2a7-4893-934d-e5aa21c9769c)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/f2e008e9-0a1a-4be9-95cd-6e1d057197c6/image.png)
+![image png-11](https://github.com/user-attachments/assets/01bc0e80-d00e-47a3-8107-09e54aa4875e)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e8b721aa-049d-4f4b-985b-c341890ca54a/image.png)
+![image png-12](https://github.com/user-attachments/assets/d7de7dd3-22e3-4bfd-b105-787a13689fb4)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e026332b-3065-4fa2-96af-ab68d1cd7bc3/image.png)
+![image png-13](https://github.com/user-attachments/assets/31059ca6-90ac-4e16-9d39-9a092988ee45)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/eabbdd6b-8f64-4b9c-8ff6-6a78df8618cc/image.png)
+![image png-14](https://github.com/user-attachments/assets/8e6e3118-5922-4652-a05d-c056dbd63ca0)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/86d4a9d6-3a85-45e9-8d31-5dc0ed61f9da/image.png)
+![image png-15](https://github.com/user-attachments/assets/38c0891e-c9f9-4ef3-9ea8-13c049757918)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/bb82a529-8984-46e2-be3a-0f0a3c47bc40/image.png)
+![image png-16](https://github.com/user-attachments/assets/c1b36fdd-c44b-4804-9380-315890322248)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/315da9f9-2f56-4837-b472-9678adb72df3/image.png)
+![image png-17](https://github.com/user-attachments/assets/f0acbd8f-8777-4373-bcff-7585ec34df49)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/3408cd25-ebc0-40c7-bd7d-4d917247c981/image.png)
+![image png-18](https://github.com/user-attachments/assets/392c7bee-87e2-41a6-8ce2-e2f868e76312)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/ee3b3b8c-d41d-4f38-bcb4-5adb1b19d198/image.png)
+![image png-19](https://github.com/user-attachments/assets/bc61e3d4-2edf-4cc1-9a4f-b6ab3fe08815)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/c21559ed-949e-402f-b643-cec51db8722a/image.png)
+![image png-20](https://github.com/user-attachments/assets/49a91084-555f-4b4f-849a-9bf3f7b616b6)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e70dd680-7b48-4430-affd-60c623c020dd/image.png)
+![image png-21](https://github.com/user-attachments/assets/2cd6c995-7009-486e-9ee7-60be2a9b8766)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/8b0fa81c-eca8-4e7e-b31d-298744c3d05e/image.png)
+![image png-22](https://github.com/user-attachments/assets/05fbb32e-9dbe-45f6-83da-7f4fa3c59c47)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/9e0feeb9-0bb4-4a9e-9d52-6e9cdc20ae0e/image.png)
+![image png-23](https://github.com/user-attachments/assets/bea98b16-7428-49b4-8af0-2cc7ef692191)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/216fdc84-9299-4469-9a92-c0c3e17305fa/image.png)
+![image png-24](https://github.com/user-attachments/assets/ae8ff28d-553c-403c-8c46-14f8a17b11e0)
 
 ## 📋 **1. 인프라 구성 설명 섹션**
 
@@ -503,11 +503,12 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 
 아래는 프로젝트의 인프라 구성도를 나타냅니다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/31163e93-2ba9-4ab4-ae53-6b5643c2e099/image.png)
+![image.png](https://github.com/user-attachments/assets/a4787f85-be02-474a-8d2e-52c2743463eb)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/78bfc24b-9992-4c0a-8646-d28905293a98/image.png)
+![image.png](https://github.com/user-attachments/assets/ed90780f-9f4f-4c23-9b2a-3aa68d59316c)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/e6cf74a7-4a72-4b4e-95c1-06605ff5855b/image.png)
+![image.png](https://github.com/user-attachments/assets/f67acc2b-3c33-41c9-a4a2-8ede9f07810c)
+
 
 ---
 
@@ -611,7 +612,7 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 
 ### 📊 CI/CD 구성 다이어그램
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/75620ae2-9ad6-409a-a317-5ea81d4349ba/f365d3b4-7ed4-43e4-801a-5a8231968c87/image.png)
+![image.png](https://github.com/user-attachments/assets/a43195d1-3d6b-4024-9498-1d22a70eeea3)
 
 ---
 

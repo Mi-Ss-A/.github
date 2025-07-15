@@ -318,7 +318,7 @@ https://github.com/user-attachments/assets/d4940594-0b22-4ed7-bb20-4646708930ec
 
 <aside>
     
-<img src="https://coralogix.com/wp-content/uploads/2020/04/fluentd-guide.png" alt="https://coralogix.com/wp-content/uploads/2020/04/fluentd-guide.png" width="40px" /> **fluentd 1.17.1**
+<img src="https://github.com/user-attachments/assets/a64310b3-f408-4b11-9f79-6dd3b2f45bb7" width="40px" /> **fluentd 1.17.1**
 
 </aside>
 
